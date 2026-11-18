@@ -35,6 +35,8 @@ Researchers who query archived pages and save new snapshots programmatically.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-query` | Querying the closest snapshot for a URL |
